@@ -1,6 +1,11 @@
+/* Global Styles */
+
 body {
 	font-family: Helvetica, sans-serif;
 }
+
+
+/* Header */
 
 h1 {
 	font-size: 100px;
@@ -8,4 +13,30 @@ h1 {
 	color: khaki;
 	background-image: url("../images/pattern.jpg");
 	text-align: center;
+}
+
+
+/* Product Styles */
+
+.products h2 {
+	font-size: 32px;
+	font-weight: bold;
+	color: white;
+}
+
+.product-price {
+	font-weight: bold;
+	color: blue;
+}
+
+#brushes h2 {
+	background-color: mediumspringgreen;
+}
+
+#frames h2 {
+	background-color: lightcoral;
+}
+
+#paint h2 {
+	background-color: skyblue;
 }
