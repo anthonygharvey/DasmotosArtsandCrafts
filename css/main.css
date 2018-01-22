@@ -1,12 +1,10 @@
 /* Global Styles */
-
 body {
 	font-family: Helvetica, sans-serif;
 }
 
 
 /* Header */
-
 h1 {
 	color: khaki;
 	font-size: 100px;
@@ -17,7 +15,6 @@ h1 {
 
 
 /* Product Styles */
-
 .products h2 {
 	font-size: 32px;
 	font-weight: bold;
